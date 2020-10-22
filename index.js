@@ -25,6 +25,7 @@ function greet(message){
   }
 }
 
-function displayMessage(){
-  
+function displayMessage(message) {
+  let input = document.querySelector('#greeting');
+  input.innerText = 'TEST';
 }
