@@ -24,3 +24,7 @@ function greet(message){
     return "Good Evening";
   }
 }
+
+function displayMessage(){
+  
+}
